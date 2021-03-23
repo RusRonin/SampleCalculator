@@ -1,2 +1,3 @@
-/SampleCalculator/bin
-/SampleCalculator/obj
+/SampleCalculator/bin/
+/SampleCalculator/obj/
+/.vs/
